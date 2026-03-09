@@ -50,7 +50,6 @@ module lfsr_8(
 					 output reg [7:0] out
 );
    always @(posedge clk) begin
-		#10;
        if (!en)
            out <= 8'b0000_0001;              
        else
@@ -86,3 +85,4 @@ module mux_16to8(
    endgenerate
 
 endmodule
+
