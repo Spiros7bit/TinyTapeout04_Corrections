@@ -9,6 +9,7 @@ This repository contains the corrected version.
 
 ## Bugs Fixed
 - LFSR reset initialized to all-zeros (lock-up state) → fixed to non-zero seed
+- Added Clock Divider
 
 ## Project Description
 A Pseudo Random Number Generator (PRNG) based on two LFSRs 
