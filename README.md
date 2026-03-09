@@ -9,8 +9,6 @@ This repository contains the corrected version.
 
 ## Bugs Fixed
 - LFSR reset initialized to all-zeros (lock-up state) → fixed to non-zero seed
-- Wrong bit-width in lfsr_8 reset value (16-bit instead of 8-bit)
-- MUX output declared without reg in always block
 
 ## Project Description
 A Pseudo Random Number Generator (PRNG) based on two LFSRs 
