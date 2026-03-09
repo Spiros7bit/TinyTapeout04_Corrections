@@ -23,5 +23,6 @@ https://github.com/Spiros7bit/tt04-submission-test
 - Quartus II Web Edition 13.01
 - ModelSim ALTERA STARTER EDITION 10.1d
 
-### Outputs of simulation
-<img width="709" height="189" alt="image" src="https://github.com/user-attachments/assets/506bb178-a93c-4079-9897-dbf37552da9c" />
+### Outputs of RTL simulation
+<img width="1126" height="255" alt="image" src="https://github.com/user-attachments/assets/c19e0ed6-be40-4f7f-8731-09e4fea72997" />
+
